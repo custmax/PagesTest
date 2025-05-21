@@ -1,4 +1,4 @@
 {
   "name": "my-pages-project",
-  "pages_build_output_dir": "./test"
+  "pages_build_output_dir": "./test/"
 }
