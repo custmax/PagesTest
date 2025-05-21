@@ -1,0 +1,16 @@
+{
+	"name": "delicate-night-1c05",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev"
+	},
+	"devDependencies": {
+		"wrangler": "^4.15.2"
+	},
+	"dependencies": {
+		"@supabase/supabase-js": "^2.49.5"
+	}
+}

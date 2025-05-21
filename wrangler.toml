@@ -1,0 +1,7 @@
+name = "delicate-night-1c05"
+main = "src/worker.js"
+workers_dev = true
+compatibility_date = "2025-05-20"
+
+[observability]
+enabled = true
